@@ -31,6 +31,8 @@ python mail.py
 ```
 SH-Mail
 ```
+# Credit:
+github.com/Toxic-Noob/
+
 # Tools Home
 ![IMG_20220608_160653](https://user-images.githubusercontent.com/85736436/172610797-2a2b9fbe-ca4f-4e08-a4dd-a9bbc541ddd6.jpg)
-
