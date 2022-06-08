@@ -13,8 +13,8 @@ git clone https://github.com/ShTasrif/SH-Mail
 
 # Run Termux:
 ```
-cd SH-Encryptor
-python encryptor.py
+cd SH-Mail
+python mail.py
 ```
 
 # Install & Run
