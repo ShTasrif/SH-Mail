@@ -2,3 +2,34 @@
 
 # SH-Mail
 A Temporary Email Generator Tool
+
+## Install on Termux :
+```
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install git -y
+git clone https://github.com/ShTasrif/SH-Mail
+```
+
+# Run Termux:
+```
+cd SH-Encryptor
+python encryptor.py
+```
+
+# Install & Run
+```
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install git -y
+git clone https://github.com/ShTasrif/SH-Mail
+cd SH-Mail
+python mail.py
+```
+
+# Run Shortly 
+```
+SH-Mail
+```
+# Tools Home
+
