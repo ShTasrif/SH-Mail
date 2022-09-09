@@ -10,6 +10,7 @@ pkg install python -y
 pkg install git -y
 git clone https://github.com/ShTasrif/SH-Mail
 ```
+![IMG_20220908_140624](https://user-images.githubusercontent.com/85736436/189404157-a7540df7-d8ce-47dc-9788-9b0e8ece405d.jpg)
 
 # Run Termux:
 ```
